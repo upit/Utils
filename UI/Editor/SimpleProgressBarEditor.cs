@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace XD.UI
+namespace UI
 {
     /// <summary> Класс для рисования ползунка прогрессбара в инспекторе. </summary>
     [CustomEditor(typeof(SimpleProgressBar))]

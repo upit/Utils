@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace XD.UI
+namespace UI
 {
     [CustomEditor(typeof(UIScaler))]
     public class UIScalerEditor : Editor
