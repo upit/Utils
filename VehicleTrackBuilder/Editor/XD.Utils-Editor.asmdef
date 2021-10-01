@@ -1,0 +1,19 @@
+{
+    "name": "XD.Utils-Editor",
+    "references": [
+        "XD.Utils",
+        "CodeStage.AntiCheatToolkit",
+        "Unity.Addressables.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
